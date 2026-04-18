@@ -1,0 +1,7 @@
+el uso responsable de la informcion en internet permite tener datos confiables,esto fortalece la participacion ciudadana 
+ya que las personas pueden interactuar con criterio
+La relación reside en la colaboración transparente y ética.
+El uso responsable de la información garantiza que los datos y el código sean veraces y seguros.
+Git proporciona la estructura técnica y el historial necesario para que ese trabajo sea organizado, auditable y colectivo. 
+Finalmente, esta combinación empodera la participación ciudadana, permitiendo que las personas utilicen herramientas técnicas y 
+datos confiables para crear soluciones de código abierto que mejoren su comunidad.
