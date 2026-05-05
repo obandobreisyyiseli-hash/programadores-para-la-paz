@@ -1,9 +1,8 @@
 Algoritmia 
-1.	Encontrar la información que desees compartir
-2.  Verificar la fuente página web o autor.
-3.	Revisar fecha de publicación.
-4.	Compartir la información con otras fuentes confiables.
-5.	Analizar si la información es verdadera o falsa.
-6.	Si la información es dudosa, no compartir.
-7.	Si la información es confiable, continuar.
-8.	Redactar el mensaje que sea claro y responsable.
+1.leer la informacion
+2. identificar la fuente
+3.buscar la misma informacion en otras fuentes
+4. revisar la fecha de publicacion
+5.analizar el contenido
+6.tomar la desicion correcta
+7.compartir informacion 
